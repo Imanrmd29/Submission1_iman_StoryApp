@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="logout">logout</string>
+    <string name="greet_main_activity">Hello, %1$s!</string>
+</resources>
